@@ -13,9 +13,9 @@
       Things for pets, delivered
     </description>
 
-    <author href="https://build.phonegap.com" email="srikraj8341@gmail.com">
+    <author href="https://build.phonegap.com" email="satya@phatbletlabs.com">
       PhabletLabs
     </author>
 
-        <preference name="phonegap-version" value="2.9.0" />
+        <preference name="phonegap-version" value="2.7.0" />
     </widget>
